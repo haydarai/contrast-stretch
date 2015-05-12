@@ -1,0 +1,23 @@
+D:\Data\Projects\C#\Windows\Contrast Stretch\Contrast Stretch\bin\Debug\Contrast Stretch.exe.config
+D:\Data\Projects\C#\Windows\Contrast Stretch\Contrast Stretch\bin\Debug\Contrast Stretch.exe
+D:\Data\Projects\C#\Windows\Contrast Stretch\Contrast Stretch\bin\Debug\Contrast Stretch.pdb
+D:\Data\Projects\C#\Windows\Contrast Stretch\Contrast Stretch\bin\Debug\AForge.Controls.dll
+D:\Data\Projects\C#\Windows\Contrast Stretch\Contrast Stretch\bin\Debug\AForge.dll
+D:\Data\Projects\C#\Windows\Contrast Stretch\Contrast Stretch\bin\Debug\AForge.Imaging.dll
+D:\Data\Projects\C#\Windows\Contrast Stretch\Contrast Stretch\bin\Debug\AForge.Math.dll
+D:\Data\Projects\C#\Windows\Contrast Stretch\Contrast Stretch\bin\Debug\AForge.Video.dll
+D:\Data\Projects\C#\Windows\Contrast Stretch\Contrast Stretch\bin\Debug\AForge.xml
+D:\Data\Projects\C#\Windows\Contrast Stretch\Contrast Stretch\bin\Debug\AForge.Controls.xml
+D:\Data\Projects\C#\Windows\Contrast Stretch\Contrast Stretch\bin\Debug\AForge.Imaging.xml
+D:\Data\Projects\C#\Windows\Contrast Stretch\Contrast Stretch\bin\Debug\AForge.Math.xml
+D:\Data\Projects\C#\Windows\Contrast Stretch\Contrast Stretch\bin\Debug\AForge.Video.xml
+D:\Data\Projects\C#\Windows\Contrast Stretch\Contrast Stretch\obj\Debug\Contrast Stretch.csprojResolveAssemblyReference.cache
+D:\Data\Projects\C#\Windows\Contrast Stretch\Contrast Stretch\obj\Debug\MainWindow.baml
+D:\Data\Projects\C#\Windows\Contrast Stretch\Contrast Stretch\obj\Debug\MainWindow.g.cs
+D:\Data\Projects\C#\Windows\Contrast Stretch\Contrast Stretch\obj\Debug\App.g.cs
+D:\Data\Projects\C#\Windows\Contrast Stretch\Contrast Stretch\obj\Debug\Contrast Stretch_MarkupCompile.cache
+D:\Data\Projects\C#\Windows\Contrast Stretch\Contrast Stretch\obj\Debug\Contrast Stretch.g.resources
+D:\Data\Projects\C#\Windows\Contrast Stretch\Contrast Stretch\obj\Debug\Contrast_Stretch.Properties.Resources.resources
+D:\Data\Projects\C#\Windows\Contrast Stretch\Contrast Stretch\obj\Debug\Contrast Stretch.csproj.GenerateResource.Cache
+D:\Data\Projects\C#\Windows\Contrast Stretch\Contrast Stretch\obj\Debug\Contrast Stretch.exe
+D:\Data\Projects\C#\Windows\Contrast Stretch\Contrast Stretch\obj\Debug\Contrast Stretch.pdb
